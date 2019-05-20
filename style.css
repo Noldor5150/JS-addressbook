@@ -1,0 +1,9 @@
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .flex{
+    display: flex;
+    justify-content: space-evenly;
+} */
